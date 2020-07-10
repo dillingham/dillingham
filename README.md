@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**dillingham/dillingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brian Dillingham. I've been working on web projects for 10+ years. 
 
-Here are some ideas to get you started:
+My prefered tech stack is Laravel, Vue, Tailwind, MySQL, Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on:
+
+- Open source suite of packages for Laravel
+- Code scaffolding tool for programmers
+- Laravel Nova Packages
+- Client work, hire me :)
+
+### 📫 How to reach me: 
+
+By email: brian@dillingham.dev
