@@ -13,4 +13,4 @@ My prefered tech stack is Laravel, Vue, Tailwind, MySQL, Redis
 
 ### 📫 How to reach me: 
 
-By email: brian@dillingham.dev
+Ping me on twitter: [@im_brian_d](https://twitter.com/im_brian_d)
